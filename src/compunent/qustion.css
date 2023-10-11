@@ -1,0 +1,30 @@
+.Q-sec{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    padding: 10px;
+    background-color: cornsilk;
+    margin-top: 20px;
+}
+.heading{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 10px;
+    justify-content: start;
+    
+}
+.heading .icon{
+    font-weight: 500;
+    font-size: 32px;
+    height: 30px;
+    width: 30px;
+    background-color: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+}
+.heading p.ans{
+      
+  }
